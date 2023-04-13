@@ -1,6 +1,4 @@
 # Playdate with dateme.directory
-
-# Title: 
 Analysis of the highest occurring name and its frequency using dateme.directory data
 
 # Introduction:

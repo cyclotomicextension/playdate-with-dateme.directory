@@ -17,10 +17,10 @@ Visualization: A plot was generated using the Matplotlib library to visualize th
 Results:
 The highest occurring name in the dateme.directory data was "David" with a frequency of 4.
 
-Visualization:
+#Visualization:
 A bar chart was generated to visualize the frequency of all names. The x-axis shows the names and the y-axis shows the frequencies.
 
 ![alt text](https://user-images.githubusercontent.com/49843878/231857691-e666ba41-d52d-41da-977f-cefdab31ddd2.png)
 
-Conclusion:
+#Conclusion:
 This analysis demonstrates that "David" is the highest occurring name in the dateme.directory data. This information is not really useful except to know that "David" is, perhaps, a really common name. 
